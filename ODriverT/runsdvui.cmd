@@ -1,0 +1,2 @@
+cd /d "D:\Visual Studio 2019 install\Proje\ODriverT\ODriverT" &msbuild "ODriverT.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="D:\Visual Studio 2019 install\Proje\ODriverT" 
+exit %errorlevel% 
